@@ -21,7 +21,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(N) */
-*/ xor of numbers which are close to each other can only give you the minimum xor than numbers which are far apart
+/* xor of numbers which are close to each other can only give you the minimum xor than numbers which are far apart
 {         a<=b<=c ==>  a^b < a^c
                        b^c < a^c
                                       }
